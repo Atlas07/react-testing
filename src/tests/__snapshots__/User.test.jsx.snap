@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly user component 1`] = `
+<div>
+  <p>
+    name - 
+    Vitalii Shapoval
+  </p>
+  <p>
+    login - 
+    Atlas07
+  </p>
+  <p>
+    bio - 
+    Software engineer
+  </p>
+  <p>
+    public repos - 
+  </p>
+</div>
+`;
